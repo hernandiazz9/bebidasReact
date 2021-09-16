@@ -23,7 +23,7 @@ npm install
 
 _Algunas de las tecnologías utlizadas_
 
-* [Dropwizard](https://reactjs.org/) - Libreria web de Javascript.
+* [React js](https://reactjs.org/) - Libreria web de Javascript.
 * [NPM](https://www.npmjs.com/) - Manejador de dependencias
 * [thecocktaildb](https://www.thecocktaildb.com/) - Api para obtener recetas de bebidas
 * [Bootstrap](https://getbootstrap.com/) - Framework css para estilos.
