@@ -41,7 +41,7 @@ _Este proyecto lo realice mientras me capacitaba en la librería  **React js**_
 ## Expresiones de Gratitud 🎁
 
 * Es un buen proyecto para practicar la obtención  de datos desde una API 📢
-* Invito una cerveza 🍺 y un café ☕ a [**Juan de la Torrez Valdez**]https://www.udemy.com/user/juanpablodelatorrevaldez/
+* Invito una cerveza 🍺 y un café ☕ a [**Juan de la Torrez Valdez**](https://www.udemy.com/user/juanpablodelatorrevaldez/)
 * Un gran profesor y con muy buen material de estudio! 🤓.
 * MUCHISIMAS GRACIAS POR LEER!.
 
