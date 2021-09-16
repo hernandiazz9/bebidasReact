@@ -13,6 +13,9 @@ _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener 
 _Clonar el repositorio e instalar dependencias._
 
 ```
+git clone https://github.com/hernandiazz9/bebidasReact.git
+```
+```
 npm install
 ```
 
