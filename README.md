@@ -8,8 +8,6 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 ### Instalación 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
 _Clonar el repositorio e instalar dependencias._
 
 ```
